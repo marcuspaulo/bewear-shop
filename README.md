@@ -34,3 +34,31 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Git
+
+### Git commit
+
+https://www.conventionalcommits.org/en/v1.0.0/
+
+## Drizzle ORM
+
+https://orm.drizzle.team/
+
+### Update Seed Drizzle
+
+```sh
+npx drizzle-kit push
+```
+
+## Apply Seed Drizzle
+
+```sh
+npx tsx --env-file=.env src/db/seed.ts
+```
+
+## Drizzle Kit Studio
+
+```sh
+npx drizzle-kit studio
+```
