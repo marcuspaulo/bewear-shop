@@ -62,3 +62,7 @@ npx tsx --env-file=.env src/db/seed.ts
 ```sh
 npx drizzle-kit studio
 ```
+
+## Auth - Better-auth
+
+https://www.better-auth.com/
