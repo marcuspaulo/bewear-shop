@@ -66,3 +66,7 @@ npx drizzle-kit studio
 ## Auth - Better-auth
 
 https://www.better-auth.com/
+
+### Installation
+
+https://www.better-auth.com/docs/integrations/next
